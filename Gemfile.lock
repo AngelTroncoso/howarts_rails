@@ -100,7 +100,7 @@ GEM
       reline (>= 0.3.8)
     drb (2.2.1)
     erubi (1.13.0)
-    faker (3.4.2)
+    faker (3.5.1)
       i18n (>= 1.8.11, < 2)
     globalid (1.2.1)
       activesupport (>= 6.1)
@@ -283,7 +283,7 @@ DEPENDENCIES
   brakeman
   capybara
   debug
-  faker (~> 3.0)
+  faker (~> 3.5)
   jbuilder
   jsbundling-rails
   pg (~> 1.1)
